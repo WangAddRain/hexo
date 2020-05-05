@@ -1,4 +1,4 @@
 ---
-title: profile
-date: 2020-05-06 04:18:21
+title: About Me //Can be customized
+layout: page
 ---
